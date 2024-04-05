@@ -1,0 +1,3 @@
+CREATE DATABASE da_jobs;
+
+-- DROP DATABASE IF EXISTS sql_course;
