@@ -1,6 +1,0 @@
-- Introduction
-- Backround
-- Tools i used
-- The Analysis
-- What i learnd
-- Conclusions
